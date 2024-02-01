@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "151903075685",
+    "project_id": "findpartner-1e517",
+    "storage_bucket": "findpartner-1e517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151903075685:android:b4f73feff901ab82b6f58c",
+        "android_client_info": {
+          "package_name": "com.example.findpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151903075685-v2g74trug2ldovkf4nfopvod79m8lte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ORu5Ec5RhBposyP0ujqxDEfjs1lId0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151903075685-v2g74trug2ldovkf4nfopvod79m8lte4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151903075685-19sdfli99kgk9jsrfrgt0lh13k204rg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.findpartner.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
